@@ -14,3 +14,6 @@ This is a collaborative Quarto project.
 # Jamie’s Section
 
 This is my contribution to the Quarto project.
+# Instructor's Section
+
+This section was added after Student B began work. Change done by person A.
